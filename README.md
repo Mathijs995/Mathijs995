@@ -12,7 +12,7 @@ I am a full stack developer with a background in data science and economics. Sin
 
 ##### Languages
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://docs.python.org/3/)
-[<img align="left" alt="Dart" width="26px" src="https://drive.google.com/uc?id=11D6bA2fDGGz_Y7pHOxuAmSgtb3MCBCI8" />](https://dart.dev/)
+[<img align="left" alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />](https://dart.dev/)
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org/)
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://docs.oracle.com/javase/7/docs/technotes/guides/language/)
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/)
@@ -37,7 +37,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <br />
 
 ##### Frameworks
-[<img align="left" alt="Flutter" width="26px" src="https://drive.google.com/uc?id=1Ka-_VgfVS_eLeY6DMZMqsFxFgr_fnvFf" />](https://flutter.dev)
+[<img align="left" alt="Flutter" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />](https://flutter.dev)
 [<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />](https://jekyllrb.com)
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://palletsprojects.com/p/flask/)
