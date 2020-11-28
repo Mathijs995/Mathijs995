@@ -41,9 +41,9 @@ I am full stack developer with a background in data science and economics passio
 <img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Plotly Dash" width="26px" src="https://prismic-io.s3.amazonaws.com/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg" />
-<img align="left" alt="Bokeh" width="26px" src="https://static.bokeh.org/logos/logotype.svg" />
-<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_horizontal.svg" />
+<img align="left" alt="Plotly Dash" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" />
+<img align="left" alt="Bokeh" width="26px" src="http://docs.bokeh.org/en/0.11.0/_static/images/logo.png" />
+<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />
 
 [website]: https://mathijsdejong.info
 [company]: https://accelerytics.com
