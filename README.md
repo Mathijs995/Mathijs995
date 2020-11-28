@@ -37,7 +37,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <br />
 
 ##### Frameworks
-[<img align="left" alt="Flutter" height="26px" src="icons/flutter.png" />](https://flutter.dev)
+[<img align="left" alt="Flutter" height="26px" width="26px" src="icons/flutter.png" />](https://flutter.dev)
 [<img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" />](https://jekyllrb.com)
 [<img align="left" alt="Django" width="26px" src="icons/django.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="Flask" width="26px" src="icons/flask.png" />](https://palletsprojects.com/p/flask/)
