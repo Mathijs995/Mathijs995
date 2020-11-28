@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=mathijsdejong.info&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.info)](https://mathijsdejong.info)
 
-### Hi, I'm Mathijs
+### About
 I am full stack developer with a background in data science and economics passionate about technology. Over the last eight years, I have been teaching courses and workshops on web development, software development and data analytics. More recently, I have started to contribute to open-source software projects and founded the digital consulting company [Accelerytics][company].
 
 ###### Connect with me:
