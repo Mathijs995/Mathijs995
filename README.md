@@ -19,7 +19,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <img align="left" alt="HTML5" width="26px" src="icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="icons/css.png" />
 <img align="left" alt="Sass" width="26px" src="icons/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="icons/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="icons/sql.png" />
 <img align="left" alt="Bash" width="26px" src="icons/bash.png" />
 
