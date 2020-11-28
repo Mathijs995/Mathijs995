@@ -31,7 +31,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
 [<img align="left" alt="Amazon Web Services" width="26px" src="icons/aws.png" />](https://aws.amazon.com)
 [<img align="left" alt="GitHub" width="26px" src="icons/github.png" />](https://github.com)
-[<img align="left" alt="Figma" width="26px" src="icons/figma.svg" />](https://figma.com)
+[<img align="left" alt="Figma" height="26px" src="icons/figma.svg" />](https://figma.com)
 [<img align="left" alt="Notion" width="26px" src="icons/notion.png" />](https://notion.so)
 
 <br />
