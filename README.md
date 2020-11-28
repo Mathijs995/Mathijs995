@@ -21,7 +21,7 @@ I am full stack developer with a background in data science and economics passio
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Bash" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
 <br />
 
@@ -37,13 +37,13 @@ I am full stack developer with a background in data science and economics passio
 <br />
 
 ##### Frameworks
-<img align="left" alt="Flutter" height="26px" src="https://drive.google.com/uc?id=1Ka-_VgfVS_eLeY6DMZMqsFxFgr_fnvFf" />
-<img align="left" alt="Jekyll" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
-<img align="left" alt="Django" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Flask" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Plotly Dash" height="26px" src="https://prismic-io.s3.amazonaws.com/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg" />
-<img align="left" alt="Bokeh" height="26px" src="https://static.bokeh.org/logos/logotype.svg" />
-<img align="left" alt="Dask" height="26px" src="https://docs.dask.org/en/latest/_images/dask_horizontal.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://drive.google.com/uc?id=1Ka-_VgfVS_eLeY6DMZMqsFxFgr_fnvFf" />
+<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Plotly Dash" width="26px" src="https://prismic-io.s3.amazonaws.com/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg" />
+<img align="left" alt="Bokeh" width="26px" src="https://static.bokeh.org/logos/logotype.svg" />
+<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_horizontal.svg" />
 
 [website]: https://mathijsdejong.info
 [company]: https://accelerytics.com
