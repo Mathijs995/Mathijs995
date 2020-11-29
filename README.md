@@ -6,8 +6,7 @@ I am a full stack developer with a background in data science and economics. Sin
 ###### Connect with me:
 [<img align="left" alt="mathijsdejong.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mathijs de Jong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]
-\
+[<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]<br/><br/>
 ##### Languages
 <a href='https://docs.python.org/3/'><img align="left" alt="Python" width="26px" src="icons/python.png" /></a>
 <a href='https://dart.dev/'><img align="left" alt="Dart" width="26px" src="icons/dart.svg" /></a>
