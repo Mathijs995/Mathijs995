@@ -10,8 +10,8 @@ I am a full stack developer with a background in data science and economics. Sin
 
 <br />
 
+<h5>Languages</h5>
 <div style='min-width: 300px'>
-    <h5>Languages</h5><br />
     <a href='https://docs.python.org/3/'><img align="left" alt="Python" width="26px" src="icons/python.png" /></a>
     <a href='https://dart.dev/'><img align="left" alt="Dart" width="26px" src="icons/dart.svg" /></a>
     <a href='https://www.r-project.org/'><img align="left" alt="R" width="26px" src="icons/r.png" /></a>
@@ -29,8 +29,8 @@ I am a full stack developer with a background in data science and economics. Sin
 
 <br />
 
+<h5>Tools</h5>
 <div style='min-width: 300px'>
-    <h5>Tools</h5><br />
     <a href='https://code.visualstudio.com'><img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code.png" /></a>
     <a href='https://jupyter.org/'><img align="left" alt="Jupyter Notebook" width="26px" src="icons/jupyter-notebook.png" /></a>
     <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
@@ -44,8 +44,8 @@ I am a full stack developer with a background in data science and economics. Sin
 
 <br />
 
+<h5>Frameworks</h5>
 <div style='min-width: 300px'>
-    <h6>Frameworks</h6><br />
     <a href='https://flutter.dev'><img align="left" alt="Flutter" height="26px" width="26px" src="icons/flutter.png" /></a>
     <a href='https://jekyllrb.com'><img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" /></a>
     <a href='https://www.djangoproject.com/'><img align="left" alt="Django" width="26px" src="icons/django.png" /></a>
