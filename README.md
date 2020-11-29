@@ -22,10 +22,8 @@ I am a full stack developer with a background in data science and economics. Sin
     <img align="left" alt="Sass" width="26px" src="icons/sass.png" />
     <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" />
     <img align="left" alt="SQL" width="26px" src="icons/sql.png" />
-    <img align="left" alt="Bash" width="26px" src="icons/bash.png" />
+    <img align="left" alt="Bash" width="26px" src="icons/bash.png" />\
 </p>
-
-<br />
 
 <h5>Tools</h5>
 <p float="left">
@@ -35,10 +33,8 @@ I am a full stack developer with a background in data science and economics. Sin
     <a href='https://aws.amazon.com'><img align="left" alt="Amazon Web Services" width="26px" src="icons/aws.png" /></a>
     <a href='https://github.com'><img align="left" alt="GitHub" width="26px" src="icons/github.png" /></a>
     <a href='https://figma.com'><img align="left" alt="Figma" height="26px" src="icons/figma.svg" /></a>
-    <a href='https://notion.so'><img align="left" alt="Notion" width="26px" src="icons/notion.png" /></a>
+    <a href='https://notion.so'><img align="left" alt="Notion" width="26px" src="icons/notion.png" /></a>\
 </p>
-
-<br />
 
 <h5>Frameworks</h5>
 <p float="left">
