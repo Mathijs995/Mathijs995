@@ -8,42 +8,48 @@ I am a full stack developer with a background in data science and economics. Sin
 [<img align="left" alt="Mathijs de Jong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]
 
-<br />
-
 ##### Languages
-[<img align="left" alt="Python" width="26px" src="icons/python.png" />](https://docs.python.org/3/)
-[<img align="left" alt="Dart" width="26px" src="icons/dart.svg" />](https://dart.dev/)
-[<img align="left" alt="R" width="26px" src="icons/r.png" />](https://www.r-project.org/)
-[<img align="left" alt="Java" width="26px" src="icons/java.png" />](https://docs.oracle.com/javase/7/docs/technotes/guides/language/)
-[<img align="left" alt="LaTeX" width="26px" src="icons/latex.png" />](https://www.latex-project.org/)
-<img align="left" alt="HTML5" width="26px" src="icons/html.png" />
-<img align="left" alt="CSS3" width="26px" src="icons/css.png" />
-<img align="left" alt="Sass" width="26px" src="icons/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="icons/sql.png" />
-<img align="left" alt="Bash" width="26px" src="icons/bash.png" />
-
-<br />
+<div style='min-width: 300px'>
+    [<img align="left" alt="Python" width="26px" src="icons/python.png" />](https://docs.python.org/3/)
+    [<img align="left" alt="Dart" width="26px" src="icons/dart.svg" />](https://dart.dev/)
+    [<img align="left" alt="R" width="26px" src="icons/r.png" />](https://www.r-project.org/)
+    [<img align="left" alt="Java" width="26px" src="icons/java.png" />](https://docs.oracle.com/javase/7/docs/technotes/guides/language/)
+    [<img align="left" alt="LaTeX" width="26px" src="icons/latex.png" />](https://www.latex-project.org/)
+    <img align="left" alt="HTML5" width="26px" src="icons/html.png" />
+</div>
+<div style='min-width: 300px'>
+    <img align="left" alt="CSS3" width="26px" src="icons/css.png" />
+    <img align="left" alt="Sass" width="26px" src="icons/sass.png" />
+    <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" />
+    <img align="left" alt="SQL" width="26px" src="icons/sql.png" />
+    <img align="left" alt="Bash" width="26px" src="icons/bash.png" />
+</div>
 
 ##### Tools
-[<img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code.png" />](code.visualstudio.com)
-[<img align="left" alt="Jupyter Notebook" width="26px" src="icons/jupyter-notebook.png" />](https://jupyter.org/)
-<img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
-[<img align="left" alt="Amazon Web Services" width="26px" src="icons/aws.png" />](https://aws.amazon.com)
-[<img align="left" alt="GitHub" width="26px" src="icons/github.png" />](https://github.com)
-[<img align="left" alt="Figma" height="26px" src="icons/figma.svg" />](https://figma.com)
-[<img align="left" alt="Notion" width="26px" src="icons/notion.png" />](https://notion.so)
-
-<br />
+<div style='min-width: 300px'>
+    [<img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code.png" />](code.visualstudio.com)
+    [<img align="left" alt="Jupyter Notebook" width="26px" src="icons/jupyter-notebook.png" />](https://jupyter.org/)
+    <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
+    [<img align="left" alt="Amazon Web Services" width="26px" src="icons/aws.png" />](https://aws.amazon.com)
+    [<img align="left" alt="GitHub" width="26px" src="icons/github.png" />](https://github.com)
+    [<img align="left" alt="Figma" height="26px" src="icons/figma.svg" />](https://figma.com)
+</div>
+<div style='min-width: 300px'>
+    [<img align="left" alt="Notion" width="26px" src="icons/notion.png" />](https://notion.so)
+</div>
 
 ##### Frameworks
-[<img align="left" alt="Flutter" height="26px" width="26px" src="icons/flutter.png" />](https://flutter.dev)
-[<img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" />](https://jekyllrb.com)
-[<img align="left" alt="Django" width="26px" src="icons/django.png" />](https://www.djangoproject.com/)
-[<img align="left" alt="Flask" width="26px" src="icons/flask.png" />](https://palletsprojects.com/p/flask/)
-[<img align="left" alt="Plotly Dash" width="26px" src="icons/plotly.svg" />](https://plotly.com)
-[<img align="left" alt="Bokeh" width="26px" src="icons/bokeh.png" />](https://bokeh.org)
-[<img align="left" alt="Dask" width="26px" src="icons/dask.svg" />](https://dask.org)
+<div style='min-width: 300px'>
+    [<img align="left" alt="Flutter" height="26px" width="26px" src="icons/flutter.png" />](https://flutter.dev)
+    [<img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" />](https://jekyllrb.com)
+    [<img align="left" alt="Django" width="26px" src="icons/django.png" />](https://www.djangoproject.com/)
+    [<img align="left" alt="Flask" width="26px" src="icons/flask.png" />](https://palletsprojects.com/p/flask/)
+    [<img align="left" alt="Plotly Dash" width="26px" src="icons/plotly.svg" />](https://plotly.com)
+    [<img align="left" alt="Bokeh" width="26px" src="icons/bokeh.png" />](https://bokeh.org)
+</div>
+<div style='min-width: 300px'>
+    [<img align="left" alt="Dask" width="26px" src="icons/dask.svg" />](https://dask.org)
+</div>
 
 [website]: https://mathijsdejong.info
 [company]: https://accelerytics.com
