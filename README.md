@@ -8,6 +8,8 @@ I am a full stack developer with a background in data science and economics. Sin
 [<img align="left" alt="Mathijs de Jong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]
 
+<br />
+
 ##### Languages
 <div style='min-width: 300px'>
     <a href='https://docs.python.org/3/'><img align="left" alt="Python" width="26px" src="icons/python.png" /></a>
@@ -25,6 +27,8 @@ I am a full stack developer with a background in data science and economics. Sin
     <img align="left" alt="Bash" width="26px" src="icons/bash.png" />
 </div>
 
+<br />
+
 ##### Tools
 <div style='min-width: 300px'>
     <a href='https://code.visualstudio.com'><img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code.png" /></a>
@@ -37,6 +41,8 @@ I am a full stack developer with a background in data science and economics. Sin
 <div style='min-width: 300px'>
     <a href='https://notion.so'><img align="left" alt="Notion" width="26px" src="icons/notion.png" /></a>
 </div>
+
+<br />
 
 ##### Frameworks
 <div style='min-width: 300px'>
