@@ -23,7 +23,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <img align="left" alt="SQL" width="26px" src="icons/sql.png" />
 <img align="left" alt="Bash" width="26px" src="icons/bash.png" />  
   \
-  \
+
 ##### Tools
 <a href='https://code.visualstudio.com'><img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code.png" /></a>
 <a href='https://jupyter.org/'><img align="left" alt="Jupyter Notebook" width="26px" src="icons/jupyter-notebook.png" /></a>
@@ -33,7 +33,7 @@ I am a full stack developer with a background in data science and economics. Sin
 <a href='https://figma.com'><img align="left" alt="Figma" height="26px" src="icons/figma.svg" /></a>
 <a href='https://notion.so'><img align="left" alt="Notion" width="26px" src="icons/notion.png" /></a>
   \
-  \
+
 ##### Frameworks
 <a href='https://flutter.dev'><img align="left" alt="Flutter" height="26px" width="26px" src="icons/flutter.png" /></a>
 <a href='https://jekyllrb.com'><img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" /></a>
