@@ -1,7 +1,9 @@
 [![Website](https://img.shields.io/website?label=mathijsdejong.info&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.info)](https://mathijsdejong.info)
 
 ### About me
-I work as a Data Scientist at [BCG GAMMA][company] where I help clients grow their business through daa science and advanced technology. Next to that, I have been teaching courses and workshops on web development, software development and data analytics since 2013. In my spare time, I like to read and contribute to open-source software projects.
+I am passionate about empowering people around me with technology and digital skills. Since 2013, I have been teaching courses and workshops on web development, software development and data analytics. More recently, I joined [BCG GAMMA][company] where I help clients grow their business through data science and advanced technology.
+
+In my spare time, I like to read and contribute to open-source software. I am mostly interested in economics, artificial intelligence, human behavior, business, entrepreneurship, management, effective altruism and anything related to maximizing human potential.
 
 ###### Connect with me:
 [<img align="left" alt="mathijsdejong.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
