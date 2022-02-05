@@ -9,7 +9,7 @@ I work as a Data Scientist at [BCG GAMMA][company] where I help clients grow the
 [<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]<br/><br/>
 ##### Languages
 <a href='https://docs.python.org/3/'><img align="left" alt="Python" width="26px" src="icons/python.png" /></a>
-<a href='https://fortran-lang.org'><img align="left" alt="Fortran" width="26px" src="icons/fortran.png" /></a>
+<a href='https://fortran-lang.org'><img align="left" alt="Fortran" height="26px" src="icons/fortran.png" /></a>
 <a href='https://www.r-project.org/'><img align="left" alt="R" width="26px" src="icons/r.png" /></a>
 <img align="left" alt="C" width="26px" src="icons/c.png" />
 <img align="left" alt="C++" width="26px" src="icons/cpp.png" />
