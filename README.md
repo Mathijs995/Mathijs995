@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/website?label=mathijsdejong.info&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.info)](https://mathijsdejong.info)
 
 ### About me
-I am a full stack developer with a background in data science and economics. Since 2013, I have been teaching courses and workshops on web development, software development and data analytics. More recently, I have started to contribute to open-source software projects and offering my services through my digital consulting company [Accelerytics][company].
+I work as a Data Scientist at [BCG GAMMA][company] where I help clients grow their business through daa science and advanced technology. Next to that, I have been teaching courses and workshops on web development, software development and data analytics and like to contribute to open-source software projects.
 
 ###### Connect with me:
 [<img align="left" alt="mathijsdejong.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,6 +37,6 @@ I am a full stack developer with a background in data science and economics. Sin
 <a href='https://dask.org'><img align="left" alt="Dask" width="26px" src="icons/dask.svg" /></a>
 
 [website]: https://mathijsdejong.info
-[company]: https://accelerytics.com
+[company]: https://www.bcg.com/beyond-consulting/bcg-gamma/default
 [linkedin]: https://linkedin.com/in/mathijsdejong995/
-[email]: mathijs@accelerytics.com
+[email]: mathijsdejong1995@gmail.com
