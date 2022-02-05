@@ -9,8 +9,11 @@ I work as a Data Scientist at [BCG GAMMA][company] where I help clients grow the
 [<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]<br/><br/>
 ##### Languages
 <a href='https://docs.python.org/3/'><img align="left" alt="Python" width="26px" src="icons/python.png" /></a>
-<a href='https://dart.dev/'><img align="left" alt="Dart" width="26px" src="icons/dart.svg" /></a>
+<a href='https://fortran-lang.org'><img align="left" alt="Fortran" width="26px" src="icons/fortran.png" /></a>
 <a href='https://www.r-project.org/'><img align="left" alt="R" width="26px" src="icons/r.png" /></a>
+<img align="left" alt="C" width="26px" src="icons/c.png" />
+<img align="left" alt="C++" width="26px" src="icons/cpp.png" />
+<a href='https://dart.dev/'><img align="left" alt="Dart" width="26px" src="icons/dart.svg" /></a>
 <a href='https://docs.oracle.com/javase/7/docs/technotes/guides/language/'><img align="left" alt="Java" width="26px" src="icons/java.png" /></a>
 <a href='https://www.latex-project.org/'><img align="left" alt="LaTeX" width="26px" src="icons/latex.png" /></a>
 <img align="left" alt="HTML5" width="26px" src="icons/html.png" />
@@ -25,6 +28,7 @@ I work as a Data Scientist at [BCG GAMMA][company] where I help clients grow the
 <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
 <a href='https://aws.amazon.com'><img align="left" alt="Amazon Web Services" width="26px" src="icons/aws.png" /></a>
 <a href='https://github.com'><img align="left" alt="GitHub" width="26px" src="icons/github.png" /></a>
+<a href='https://docker.com'><img align="left" alt="Docker" height="26px" src="icons/docker.png" /></a>
 <a href='https://figma.com'><img align="left" alt="Figma" height="26px" src="icons/figma.svg" /></a>
 <a href='https://notion.so'><img align="left" alt="Notion" width="26px" src="icons/notion.png" /></a><br/><br/>
 ##### Frameworks
