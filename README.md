@@ -1,9 +1,10 @@
 [![Website](https://img.shields.io/website?label=mathijsdejong.info&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.info)](https://mathijsdejong.info)
 
 ### About me
-I am passionate about empowering people around me with technology and digital skills. Since 2013, I have been teaching courses and workshops on web development, software development and data analytics, and mentoring inspiring data scientists and software developers. I currently work as a Data Scientist at [BCG X](https://www.bcg.com/x) where I help our clients grow their business through data science and advanced technology.
 
-In my spare time, I like to read and contribute to open-source software. I am mostly interested in economics, artificial intelligence, human behavior, business, entrepreneurship, management, effective altruism and anything related to maximizing human potential.
+I am passionate about empowering people around me with technology and digital skills. Since 2013, I have been mentoring inspiring data scientists and software developers and teaching web development, software development, and data analytics courses and workshops. I currently work as a Data Scientist at [BCG X](https://www.bcg.com/x) where I assist clients in using data science and advanced technology to improve their business performance.
+
+My hobbies include contributing to open-source software and reading, with a focus on topics such as economics, artificial intelligence, human behavior, business, entrepreneurship, management, and effective altruism.
 
 ###### Connect with me:
 [<img align="left" alt="mathijsdejong.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
