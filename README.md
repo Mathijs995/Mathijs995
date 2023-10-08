@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=mathijsdejong.info&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.info)](https://mathijsdejong.info)
+[![Website](https://img.shields.io/website?label=mathijsdejong.com&style=for-the-badge&url=https%3A%2F%2Fmathijsdejong.com)](https://mathijsdejong.com)
 
 ### About me
 
@@ -7,7 +7,7 @@ I am passionate about empowering people around me with technology and digital sk
 My hobbies include contributing to open-source software and reading, with a focus on topics such as economics, artificial intelligence, human behavior, business, entrepreneurship, management, and effective altruism.
 
 ###### Connect with me:
-[<img align="left" alt="mathijsdejong.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mathijsdejong.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mathijs de Jong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mathijs de Jong | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][email]<br/><br/>
 
@@ -48,7 +48,7 @@ My hobbies include contributing to open-source software and reading, with a focu
 <a href='https://jekyllrb.com'><img align="left" alt="Jekyll" width="26px" src="icons/jekyll.png" /></a>
 <a href='https://palletsprojects.com/p/flask/'><img align="left" alt="Flask" width="26px" src="icons/flask.png" /></a>
 
-[website]: https://mathijsdejong.info
+[website]: https://mathijsdejong.com
 [company]: https://www.bcg.com/x
 [linkedin]: https://linkedin.com/in/mathijsdejong995/
 [email]: dejong.mathijs@bcg.com
