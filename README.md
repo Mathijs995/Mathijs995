@@ -1,6 +1,6 @@
 ### About me
 
-I am passionate about empowering people around me with technology and digital skills. Since 2013, I have been mentoring inspiring data scientists and software developers and teaching web development, software development, and data analytics courses and workshops. I currently work as a Data Scientist at [BCG X](https://www.bcg.com/x) where I assist clients in using data science and advanced technology to improve their business performance.
+I am passionate about empowering people around me with technology and digital skills. Since 2013, I have been mentoring inspiring data scientists and software developers and teaching web development, software development, and data analytics courses and workshops. I currently work as a Senior Data Scientist at [BCG X](https://www.bcg.com/x) where I assist clients in using data science and advanced technology to improve their business performance.
 
 My hobbies include contributing to open-source software and reading, with a focus on topics such as economics, artificial intelligence, human behavior, business, entrepreneurship, management, and effective altruism.
 
