@@ -1,6 +1,6 @@
 ### About Me
 
-Geek with a passion for building and coffee. Currently, a Senior Data Scientist at [BCG X](https://www.bcg.com/x), helping clients harness data science and advanced technologies to drive business success. I thrive on building end-to-end solutions — from concept to design to full-stack implementation — and the more hats I get to wear, the better.
+Geek with a passion for building and coffee. Working as a Senior Data Scientist at [BCG X](https://www.bcg.com/x), helping clients harness advanced technologies to drive business success. I thrive on building end-to-end solutions — from concept to design to full-stack implementation — and the more hats I get to wear, the better.
 
 Outside of work, you'll find me brewing and drinking coffee, building tech, and learning about Tech, AI, and Entrepreneurship.
 
